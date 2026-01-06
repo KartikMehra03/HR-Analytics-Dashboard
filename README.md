@@ -1,16 +1,24 @@
 # HR-Analytics-Dashboard
-HR-Analytics: It is an interactive Power BI dashboard which is aims to analyze and visualize key workforce metrics to support strategic human resource decision-making. The dashboard provides key insights using KPIs and visualizations.
+**HR-Analytics**: It is an interactive Power BI dashboard which is aims to analyze and visualize key workforce metrics to support strategic human resource decision-making. The dashboard provides key insights using KPIs and visualizations.
 
-Tech Stack
+**Tech Stack**
 
-• 📊 Power BI Desktop – Data Visualization platform used for report creation.
+• 📊 **Power BI Desktop**– Data Visualization platform used for report creation.
 
-• 📂 Power Query – Data transformation platform for cleaning, reshaping and preparing the data.
+• 📂**Power Query**– Data transformation platform for cleaning, reshaping and preparing the data.
 
-• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures/Columns.
+• 🧠 **DAX (Data Analysis Expressions)** – Used for calculated measures/Columns.
 
 **Features / Highlights**
 
-Key Performance Indicators (KPIs)
+**Key Performance Indicators (KPIs)**
 
-Total Sales: Overall revenue generated ($1.20M). Average Sales: Average revenue per sale ($141) Number of Items: Total count of different items sold (8.5K) Average Rating: Average customer rating for items sold (3.9 out of 5)
+**Total Emloyees**: 1470
+**Attrition**: 237
+**Active Employees**: 1233
+
+**Key Visual**
+
+**Slicers**: Allows user to filter data by Martial Status and Education field. **Pie Chart**: Visualizes the Active Employees by each Department. **Stacked Column Chart**: Visualizes the Active Employees by Job Role. **Clustered Bar Chart**: Visualizes the Performance Ratings by each Department. **Donut Chart**: Visualizes the Employees Attrition Department wise. **Matrix**: Visualizes the Job Satisfaction Ratings.
+
+**Insights and Conclusions** • 1233 Active Employees with Research & Development has maximum Employees. • Sales Executive has maximun job roles, whereas Human Resource has minimum. • Research & Development has the best Performance Ratings. • Healthcare Represntatives has the most Job Satisfaction Ratings.
